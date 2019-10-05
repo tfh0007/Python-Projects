@@ -5,6 +5,7 @@ import sys
 from tkinter import*
 import threading
 from fractions import*
+
 Input_box_1 = Tk()
 userInput = StringVar()
 variable_a = StringVar()
